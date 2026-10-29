@@ -4,6 +4,5 @@ numpy
 requests
 scikit-learn
 reportlab
-matplotlib
 XlsxWriter
 sympy
