@@ -1,9 +1,0 @@
-streamlit
-matplotlib
-numpy
-pandas
-requests
-sympy
-scikit-learn
-reportlab
-XlsxWriter
